@@ -1,2 +1,2 @@
-# NYCU Machine Learning 2024
+# NYCU Introduction to Machine Learning 2024
 
